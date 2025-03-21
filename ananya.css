@@ -1,0 +1,22 @@
+
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: pink;
+}
+.container {
+  text-align: center;
+  padding: 100px;
+  background-color: #ffffff;
+  margin: 10% auto;
+  max-width: 600px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+h1 {
+  color: #007bff;
+}
+p {
+  color: #555;
+} 
